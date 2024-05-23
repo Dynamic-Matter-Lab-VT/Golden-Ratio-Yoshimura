@@ -14,7 +14,7 @@ This repository contains the implementation of "Golden Ratio Yoshimura" for meta
 
 - `/data`
     - `/media`: Contains images related to the Golden Ratio Yoshimura structure.
-    - `experimental data`: Raw experiment data collected during testing.
+    - `/experimental_data`: Raw experiment data collected during testing.
 - `/src`
     - `yoshimura_structure.py`: Main Python script containing the implementation of the Golden Ratio Yoshimura structure.
 
